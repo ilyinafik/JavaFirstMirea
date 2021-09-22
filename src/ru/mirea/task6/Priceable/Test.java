@@ -1,4 +1,4 @@
-package ru.mirea.task6;
+package ru.mirea.task6.Priceable;
 
 public class Test {
 
