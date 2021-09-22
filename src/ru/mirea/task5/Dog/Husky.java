@@ -1,4 +1,6 @@
-package ru.mirea.task5;
+package ru.mirea.task5.Dog;
+
+import ru.mirea.task5.Dog.Dog;
 
 public class Husky extends Dog {
 

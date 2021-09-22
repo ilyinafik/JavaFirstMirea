@@ -1,4 +1,4 @@
-package ru.mirea.task5;
+package ru.mirea.task5.Dog;
 
 public abstract class Dog {
 
